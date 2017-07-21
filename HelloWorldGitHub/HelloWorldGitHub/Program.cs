@@ -11,7 +11,7 @@ namespace HelloWorldGitHub
         static void Main(string[] args)
         {
             var i = 1;
-            var r = 10;
+           
         }
     }
 }
